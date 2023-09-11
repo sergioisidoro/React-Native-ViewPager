@@ -7,7 +7,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { StyleSheet, View } from 'react-native'
-import {ViewPropTypes} from 'deprecated-react-native-prop-types'
+import { ViewPropTypes} from 'deprecated-react-native-prop-types'
 
 import ViewPager from './ViewPager'
 
